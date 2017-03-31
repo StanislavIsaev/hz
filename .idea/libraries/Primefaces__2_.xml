@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Primefaces (2)" type="jsf-primefaces">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/primefaces/primefaces/6.0/primefaces-6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
