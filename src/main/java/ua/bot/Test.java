@@ -32,8 +32,8 @@ public class Test {
 
         WebElement loginForm = new WebDriverWait(driver, 3).until(visibilityOfElementLocated(By.name("loginForm")));
 
-        loginForm.findElement(By.name("email")).sendKeys("stanislav.isaev85@gmail.com");
-        loginForm.findElement(By.name("password")).sendKeys("seifer123");
+        loginForm.findElement(By.name("email")).sendKeys("");
+        loginForm.findElement(By.name("password")).sendKeys("");
 
         loginForm.findElement(By.tagName("button")).click();
 
